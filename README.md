@@ -63,7 +63,3 @@ python cs336_basics/generate.py \
 
 [CS336: Language Models from Scratch](https://stanford-cs336.github.io/spring2025/)
 — Percy Liang, Tatsunori Hashimoto, Stanford University, Spring 2025
-
-git add README.md
-git commit -m "Add README"
-git push
